@@ -1,8 +1,3 @@
-/* 
-dasindu you can also change css here, which is probably preferred but ig style.scss can still be modified. 
-You may consider doing what i (quartz) has done, and set colour variables in the style.scss first and then change here.
-*/
-
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -50,8 +45,7 @@ body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 13px;
   line-height: 1.5;
-  color: #00283c;
-  background-color: #00283c;
+  color: #000;
 }
 
 a {
@@ -68,7 +62,7 @@ header h1 {
   font-size: 48px;
   font-weight: bold;
   line-height: 1.2;
-  color: #85ffeb;
+  color: #303030;
   letter-spacing: -1px;
 }
 
@@ -76,7 +70,7 @@ header h2 {
   font-size: 24px;
   font-weight: normal;
   line-height: 1.3;
-  color: #009dff;
+  color: #aaa;
   letter-spacing: -1px;
 }
 #downloads {
@@ -213,7 +207,7 @@ footer {
   padding-bottom: 30px;
   margin-top: 40px;
   font-size: 13px;
-  color: #00283c;
+  color: #aaa;
 }
 
 footer a {

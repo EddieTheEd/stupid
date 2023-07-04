@@ -1,5 +1,6 @@
 ---
 title: Into the shadow garten
+layout: default
 ---
 
 Jello! I make some funny notes for things I find interesting or just for reference. Ignore the link below, only my joy for finally having a website.
